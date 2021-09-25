@@ -11,13 +11,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-<17 y.o>
-<Gilan></ Rasht>
-<WebsiteDesigner>
-**Const me** {
-Name= Mani
-Lastname= Mirbostani
-Discord Developer/Configer
+<17 y.o><br>
+<Gilan></ Rasht><br>
+<WebsiteDesigner><br>
+**Const me** {<br>
+Name= Mani<br>
+Lastname= Mirbostani<br>
+Discord Developer/Configer<br>
 } ;
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=icymbn&count_private=true&show_icons=true&include_all_commits=true)
