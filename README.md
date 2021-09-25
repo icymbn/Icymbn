@@ -12,7 +12,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <17 y.o><br>
-<Gilan ></ Rasht><br>
+< Gilan></ Rasht><br>
 <WebsiteDesigner><br>
 **Const me** {<br>
 Name= Mani<br>
