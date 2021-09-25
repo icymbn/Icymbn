@@ -19,7 +19,10 @@ Name= Mani<br>
 Lastname= Mirbostani<br>
 Discord Developer/Configer<br>
 } ;
-
+  
+  [![Discord Badge](https://img.shields.io/badge/-𝑴𝒂𝒏⸸𝑴𝑩𝒏%20ᵍᵒʳᵍⁱ#0169-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/icymbn)](https://discords.com/bio/p/icymbn)
+  [![Instagram Badge](https://img.shields.io/badge/-_manimbn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_manimbn/)](https://instagram.com/_manimbn)
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=icymbn&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icymbn&hide=TeX&layout=compact)
 
