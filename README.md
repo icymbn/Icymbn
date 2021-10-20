@@ -19,7 +19,8 @@ Name= Mani<br>
 Lastname= Mirbostani<br>
 Discord Developer/Configer<br>
 } ;
-<a href="https://coffeebede.ir/buycoffee/manimbn"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
+<a href="https://coffeebede.ir/buycoffee/manimbn" style="width: 200px; height:200px;"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
   
   [![Discord Badge](https://img.shields.io/badge/-𝑴𝒂𝒏⸸𝑴𝑩𝒏%20ᵍᵒʳᵍⁱ%200169-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/icymbn)](https://discords.com/bio/p/icymbn)
   [![Instagram Badge](https://img.shields.io/badge/-_manimbn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_manimbn/)](https://instagram.com/_manimbn)
