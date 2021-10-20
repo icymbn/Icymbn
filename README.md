@@ -23,7 +23,7 @@ Discord Developer/Configer<br>
    <a href="https://coffeebede.ir/buycoffee/manimbn"><img style="height: 200px; width: 200px;" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
   
   [![Discord Badge](https://img.shields.io/badge/-𝑴𝒂𝒏⸸𝑴𝑩𝒏%20ᵍᵒʳᵍⁱ%200169-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/icymbn)](https://discords.com/bio/p/icymbn)
-  [![Instagram Badge](https://img.shields.io/badge/-_____manimbn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_manimbn/)](https://instagram.com/_manimbn)
+  [![Instagram Badge](https://img.shields.io/badge/-___manimbn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_manimbn/)](https://instagram.com/_manimbn)
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=icymbn&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icymbn&hide=TeX&layout=compact)
