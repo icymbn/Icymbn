@@ -1,6 +1,6 @@
 my name is Mani 👨‍💻</br>
 Part of Hyper team ⚡️</br>
-Full-stack Developer 🎭</br>
+Full-stack web Developer 🎭</br>
 </br>
 <h2 align="center"><img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"> Contact & Support me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
