@@ -11,6 +11,9 @@ Full-stack web Developer 🎭</br>
 <a href="mailto:icymbn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="90" height="30"></a><br>
 <a href="https://discords.com/bio/p/icymbn"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="90"></a>
 </div>
+<div align="center"> 
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/482206952030601227.png" alt=""/>
+</div>
 
 <h2 align="center">🎗 Stats 🎗</h2>
 <h3 align="center"> 
@@ -35,7 +38,5 @@ Full-stack web Developer 🎭</br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skil" width="90" height="30">
 </div>
 
-<div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-3/482206952030601227.png" alt=""/>
-</div>
-![](https://komarev.com/ghpvc/?username=icymbn)
+
+[](https://komarev.com/ghpvc/?username=icymbn)
