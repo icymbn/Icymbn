@@ -22,7 +22,7 @@ Full-stack web Developer 🎭</br>
 <br>  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icymbn&theme=dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icymbn&hide=css&theme=dark"></p>
-<img align="center" src="https://komarev.com/ghpvc/?username=icymbn&label=PROFILE+VIEWS" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=icymbn&label=PROFILE+VIEWS" /></p>
 
 
 												     
