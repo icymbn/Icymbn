@@ -16,13 +16,13 @@ Full-stack web Developer 🎭</br>
 </div>
 
 <h2 align="center">🎗 Stats 🎗</h2>
-<h3 align="center"> 
 <br>
 <br>
 <br>
 <br>  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icymbn&theme=dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icymbn&hide=css&theme=dark"></p>
+https://komarev.com/ghpvc/?username=icymbn&label=PROFILE+VIEWS
 
 												     
 
@@ -37,4 +37,3 @@ Full-stack web Developer 🎭</br>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Skil" width="90" height="30">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skil" width="90" height="30">
 </div>
-![](https://komarev.com/ghpvc/?username=icymbn&label=PROFILE+VIEWS)
