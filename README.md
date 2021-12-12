@@ -37,6 +37,3 @@ Full-stack web Developer 🎭</br>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Skil" width="90" height="30">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skil" width="90" height="30">
 </div>
-
-
-[     ](https://komarev.com/ghpvc/?username=icymbn)
